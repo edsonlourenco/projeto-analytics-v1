@@ -1,11 +1,10 @@
 # Projeto de análsie exploratória
 
-Projeto que demonstra uma simples análise exploratória. Material para estudantes de PySpark framework. Este mataterial é parte integrante do vídeo no youtube: ....
+Projeto que demonstra uma simples análise exploratória. Material para estudantes de PySpark framework. Este mataterial é parte integrante do vídeo no youtube: <a href="https://youtu.be/6-SOZCThn98">LINUX PARA PROGRAMAÇÃO PYSPARK<a/>
 
 Link para download da fonte de dados do Kaggle: https://www.kaggle.com/datasets/antoniocgg/sao-paulo-real-estate-prediction
 
 ## Comandos da Anaconda usados no vídeo:
-
 
 ### - Listar ambientes:
 `$ conda env list`
